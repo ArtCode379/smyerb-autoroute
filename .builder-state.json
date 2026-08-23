@@ -1,0 +1,17 @@
+{
+  "phase": "scaffold_cloned",
+  "updated_at": "2026-08-23T20:21:23.737821+00:00",
+  "slug": "smyerb-autoroute",
+  "type": "shop",
+  "package": "smyerb.autoparts.smyerbautoroute",
+  "prefix": "VZBXV",
+  "app_name": "Smyerb AutoRoute",
+  "task_gid": "1217494074751005",
+  "task_name": "GB GW4 C1498",
+  "asana_url": "https://app.asana.com/1/1208304498069546/project/1213586227413017/task/1217494074751005",
+  "domain": "https://smyerb.surf",
+  "company": "SMYERB LTD",
+  "repo_url": "https://github.com/ArtCode379/smyerb-autoroute",
+  "quality_status": "not_run",
+  "build_status": "not_run"
+}
